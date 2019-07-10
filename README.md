@@ -1,5 +1,5 @@
-# spring-data-jpa-h2-web-demo
-A simple spring boot project with data jpa, h2 and web for demonstation purpose
+# Spring REST using RSQL/FIQL
+Example integrating RSQL/FIQL in Spring REST
 
 # usage
 |                |Operator                          |Example                         |
@@ -16,6 +16,14 @@ A simple spring boot project with data jpa, h2 and web for demonstation purpose
 |Logical OR|`,`|`id==1,active=1`            |
 |Logical Group|`()`|`(id==1,id==2);active=1`            |
 
+# technology stack
+- spring boot
+- spring mvc
+- spring data jpa
+- hibernate
+- H2
+- spring boot test
+- cz.jirutka.rsql
 
 # thoughts of improvements
 - move integration tests to separate profile
