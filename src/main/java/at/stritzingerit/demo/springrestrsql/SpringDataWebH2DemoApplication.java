@@ -1,4 +1,4 @@
-package at.stritzingerit.demo.springdatawebh2demo;
+package at.stritzingerit.demo.springrestrsql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

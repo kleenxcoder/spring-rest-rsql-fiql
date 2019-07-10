@@ -10,3 +10,4 @@ INSERT INTO user (id, first_name, last_name, active) VALUES (8, 'Hannes', 'Hanne
 INSERT INTO user (id, first_name, last_name, active) VALUES (9, 'Roland', 'Roland', 1);
 INSERT INTO user (id, first_name, last_name, active) VALUES (10, 'Wilhelm', 'Wilhelm', 1);
 INSERT INTO user (id, first_name, last_name, active) VALUES (11, 'Eva', 'Eva', 1);
+INSERT INTO user (id, first_name, last_name, active) VALUES (12, 'Hans', 'Hans', 1);

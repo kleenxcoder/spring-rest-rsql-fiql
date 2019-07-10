@@ -1,10 +1,9 @@
-package at.stritzingerit.demo.springdatawebh2demo.entity;
+package at.stritzingerit.demo.springrestrsql.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Description;
 
 import javax.persistence.*;

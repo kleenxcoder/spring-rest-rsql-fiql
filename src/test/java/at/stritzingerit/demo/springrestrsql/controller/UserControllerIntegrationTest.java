@@ -1,6 +1,6 @@
-package at.stritzingerit.demo.springdatawebh2demo.controller;
+package at.stritzingerit.demo.springrestrsql.controller;
 
-import at.stritzingerit.demo.springdatawebh2demo.entity.User;
+import at.stritzingerit.demo.springrestrsql.entity.User;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.junit.runner.RunWith;
